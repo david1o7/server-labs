@@ -1,8 +1,8 @@
 ### [001] - [Networking - ipv6 only/ ipv4 only]
 
-# Date 2026-09-29
-# Category: Networking/Linux/Deployment/NGINX/Docker/security/ e.t.c
-# Status: Solved
+- Date 2026-09-29
+- Category: Networking/Linux/Deployment/NGINX/Docker/security/ e.t.c
+- Status: Solved
 
 ## Context
 This is the first time i'm trying to connect to my server or the first time connecting to a server in my life but i
