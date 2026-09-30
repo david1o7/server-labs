@@ -15,8 +15,3 @@ changes will be made, architecture decisions will change, a whole lot more just 
 
 ---
 
-
-## Recent Lab Entries
-
-*   **2026-09-29** - Successfully connected to my server for the first time, read all about it in my entry [001-networking-ipv6](./001-networking-ipv6.md) entry.
-
