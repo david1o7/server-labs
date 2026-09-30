@@ -1,4 +1,4 @@
-### [001] - [Networking - ipv6 only/ ipv4 only]
+### [002] - [Firewall- setup & ufw]
 
 - Date 2026-09-30
 - Category: Networking/Linux/Deployment/NGINX/Docker/security/ e.t.c
